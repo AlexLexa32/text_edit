@@ -1,0 +1,3 @@
+nnnkkn
+0 1 0 10000
+Hello, word!
